@@ -30,7 +30,7 @@
 ## Overview
 
 ![screenshot-desktop-design]("design/desktop-design.png.png")
-![screenshot-mobile-design]("design/desktop-design.png.png")
+![screenshot-mobile-design]("design/mobile-design.png.png")
 
 ### Built With
 
