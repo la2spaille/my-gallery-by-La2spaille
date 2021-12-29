@@ -1,0 +1,11 @@
+#l-main-section {
+    padding: 60px 0 175px;
+}
+.l-1-unit-wrapper,.l-3-units-wrapper {
+    display: flex;
+    padding: 0 235px;
+}
+.l-3-units-wrapper {
+    flex-direction: column;
+    align-items: center;
+}
