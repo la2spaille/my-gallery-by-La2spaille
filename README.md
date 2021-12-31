@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://my-gallery-by-La2spaillevercel.app">
+    <a href=/https://my-gallery-by-La2spaillevercel.app">
       Demo
     </a>
     <span> | </span>
