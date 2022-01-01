@@ -1,10 +1,5 @@
-const load = document.querySelector('#loader')
 window.addEventListener('load', (e) => {
-    loader.classList.add('load')
+    document.querySelector('#loader').classList.add('load')
+    document.querySelector('.w-gallery').classList.add('is-active')
     e.stopPropagation()
-})
-window.addEventListener('load', (e) => {
-       document.querySelector('.w-gallery').classList.add('is-active')
-       e.stopPropagation
-  
 })
