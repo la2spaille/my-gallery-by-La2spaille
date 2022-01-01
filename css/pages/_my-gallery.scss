@@ -98,7 +98,7 @@
     }
     .w-gallery-elements {
         opacity: 0;
-        transform: scale(1.5);
+        transform: scale(1.1);
         
     }
     &.is-active {
@@ -141,6 +141,7 @@
     background: #fff;
     &.load {
         opacity: 0;
+        visibility: hidden;
         .w-gallery-loader {
             &::after {
                 animation: loader--finish 1s 1;

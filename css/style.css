@@ -152,7 +152,7 @@ body {
 
 .w-gallery .w-gallery-elements {
   opacity: 0;
-  transform: scale(1.5);
+  transform: scale(1.1);
 }
 
 .w-gallery.is-active .w-gallery-elements {
@@ -197,6 +197,7 @@ body {
 
 #loader.load {
   opacity: 0;
+  visibility: hidden;
 }
 
 #loader.load .w-gallery-loader::after {
