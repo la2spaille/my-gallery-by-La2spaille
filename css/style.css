@@ -46,10 +46,6 @@ body {
   transition: 0.7s;
 }
 
-.e-3-units-wrapper-top img:hover {
-  transform: scale(1.2);
-}
-
 .e-3-units-wrapper-middle {
   display: flex;
   flex-direction: column;
